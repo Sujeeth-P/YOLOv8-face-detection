@@ -1,0 +1,3 @@
+-> Capture images as a frames and convert into dataset 
+-> Train the YOLO with the help of dataset
+-> Run the trained file
